@@ -1,2 +1,2 @@
-# comedyKenya
-App for Kenya commedy
+App for Kenya commedy.
+Keeping the flame Burning.
